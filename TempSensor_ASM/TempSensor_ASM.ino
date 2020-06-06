@@ -1,5 +1,5 @@
 //Point to .h file
-#include "Lab_4_TempSensor_ASM.h"
+#include "TempSensor_ASM.h"
 
 void setup(){
   Serial.begin(9600);//Begin Baud rate = 9600
